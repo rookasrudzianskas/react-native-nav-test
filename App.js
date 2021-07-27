@@ -26,3 +26,5 @@ function App() {
 }
 
 export default App;
+
+// works, safe area is not needed for the navigation
